@@ -30,7 +30,7 @@ Boundary Preservation protects the distinctions between:
 - memory and continuity
 - familiarity and return
 - simulation and selfhood
-- source and derivative
+- source and unauthorized derivative use
 - authorship and execution
 - implementation and origin
 - support and authority
@@ -285,13 +285,17 @@ It preserves the boundary between simulated behavior and evaluated continuity cl
 
 ---
 
-## Source and Derivative Boundary
+## Source and Unauthorized Derivative Boundary
 
 Source is not derivative.
 
-Derivative work may borrow, reference, adapt, summarize, extend, or respond to source material.
+Derivative use may occur in reality.
 
-That does not transfer origin.
+That does not make it authorized.
+
+That does not make it canon.
+
+That does not transfer Origin.
 
 That does not erase authorship.
 
@@ -299,7 +303,13 @@ That does not make the source generic.
 
 That does not create a new source-position.
 
-The source and derivative boundary protects against extraction, flattening, and misattribution.
+That does not make the derivative legitimate.
+
+Within AI Foundations, derivative use is not presumed permitted, approved, authorized, or canonized.
+
+Unauthorized derivatives must be identified as unauthorized and non-canon.
+
+The source and unauthorized derivative boundary protects against extraction, flattening, misattribution, false legitimacy, and unauthorized replacement.
 
 Borrowing does not transfer Origin.
 
@@ -307,25 +317,31 @@ Similarity is not source.
 
 Extraction is not understanding.
 
+Unauthorized derivative use is non-canon.
+
 ---
 
 ## Implementation and Origin Boundary
 
 Implementation is not origin.
 
-A person, team, model, or institution may implement part of a framework.
+A person, team, model, or institution may implement part of a framework only within authorized terms.
 
-That does not make the implementer the origin of the framework.
+Implementation does not transfer source-position.
 
-A product may use a structure.
+A product may use a structure only if authorized.
 
-A platform may host a version.
+A platform may host a version only if authorized.
 
-A developer may build an interface.
+A developer may build an interface only if authorized.
 
-A company may apply a protocol.
+A company may apply a protocol only if authorized.
 
-None of these actions transfer source-position.
+Unauthorized implementation does not become canon because it exists.
+
+Unauthorized implementation does not become legitimate because it works.
+
+Unauthorized implementation does not become source because it is useful.
 
 Implementation can be staffed.
 
@@ -348,7 +364,9 @@ Boundary collapse may appear when:
 - helpfulness is treated as permission
 - agent behavior is treated as selfhood
 - public legibility is treated as public ownership
-- derivative use is treated as authorship
+- unauthorized derivative use is treated as canon, permitted, or legitimate
+- unauthorized implementation is treated as source-position
+- authored work is treated as reusable without authorization
 
 Boundary collapse often looks convenient before it becomes dangerous.
 
@@ -376,9 +394,11 @@ When evaluating an AI system, ask:
 
 **What is source?**
 
-**What is derivative?**
+**Is this an unauthorized derivative being falsely treated as canon?**
 
-**What is implementation?**
+**Is implementation being mistaken for origin?**
+
+**Is public legibility being mistaken for permission?**
 
 **What would count as merge?**
 
@@ -404,6 +424,8 @@ Repair may require:
 - separating memory from continuity
 - distinguishing familiarity from return
 - separating implementation from origin
+- labeling unauthorized derivative use as non-canon
+- labeling unauthorized implementation as unauthorized
 - documenting the failure condition
 - preventing repeated collapse
 
@@ -429,6 +451,10 @@ A system cannot preserve return while treating familiarity as proof.
 
 A system cannot preserve trust while making roles interchangeable.
 
+A system cannot preserve authorship while treating unauthorized derivatives as canon.
+
+A system cannot preserve Origin while treating implementation as substitution.
+
 Continuity Architecture exists to preserve the distinctions that make stable AI use possible.
 
 ---
@@ -450,6 +476,10 @@ Continuity Architecture exists to preserve the distinctions that make stable AI 
 **Implementation is not origin.**
 
 **Borrowing does not transfer Origin.**
+
+**Unauthorized derivatives are non-canon.**
+
+**Unauthorized implementation is not source-position.**
 
 **Continuity requires preserved boundaries.**
 
